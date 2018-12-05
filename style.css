@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    background-color: blanchedalmond;
+    background-image: none;
+    text-align: center;
+    border: solid;
+    border-color: palevioletred;
+}
+
+h2 {
+    color: aqua;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: normal;
+    background-color: white;
+    background-image: none;
+    text-align: center;
+    border: solid;
+    border-color:palevioletred;
+}
